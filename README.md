@@ -1,7 +1,7 @@
 # Capstone-Fandango-Movies-2016-17
 
 ## Our Goal
-are planning on going out to see a movie, how well can you trust online reviews and ratings? Especially if the same company showing the rating also makes money by selling movie tickets.
+We are planning on going out to see a movie, how well can you trust online reviews and ratings? Especially if the same company showing the rating also makes money by selling movie tickets.
 Do they have a bias towards rating movies higher than they should be rated?
 ## Sites Data
 all_sites_scores.csv contains every film that has a Rotten Tomatoes rating, a RT User rating, a Metacritic score, a Metacritic User score, and IMDb score, and at least 30 fan reviews on Fandango. The data from Fandango was pulled on Aug. 24, 2015.
