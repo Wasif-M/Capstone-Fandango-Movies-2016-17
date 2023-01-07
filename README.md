@@ -44,6 +44,10 @@ nr_audience | the Rotten Tomatoes user score normalized to a 0-5 scale and round
  ## Visualize the distribution of ratings across all sites for the top 10 worst movies.
  
  ![](https://github.com/Wasif-M/Capstone-Fandango-Movies-2016-17/blob/main/result.PNG)
+ ## Conclusion
+  Fandango is showing around 3-4 star ratings for films that are clearly bad! Notice the biggest offender, Taken 3!. Fandango is displaying 4.5 stars on their site for a film with an average rating of 1.86 across the other platforms!
+
+
  
  
  
